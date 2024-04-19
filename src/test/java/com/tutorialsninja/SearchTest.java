@@ -14,7 +14,7 @@ import com.tutorialninja.pages.SearchPage;
 
 public class SearchTest extends BaseClass{
 
-	// add comments on search
+	// add comments on search - added more details
 	
 	SearchPage searchPage;
 	HomePage homePage;
